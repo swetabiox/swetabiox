@@ -5,7 +5,7 @@ swetabiox/swetabiox is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Hey folks! <br>I am currently working on projects at the intersection of deep learning and biomedical imaging.<br>I'm open to collaboration! If biology and deep learning excite you, then we should talk!<br>I'm honing my skills in PyTorch, and hope to start collaborating in open source projects soon!<br>I'm really passionate about solving biological problems with deep learning/mathematical modeling :-)<br>In my free time, I'm learning Julia and I dabble in genetics. 
+Hey folks! <br>I am currently working on projects at the intersection of deep learning and pathology.<br>I'm open to collaboration! If pathology and deep learning excite you, then we should talk!
 
 
 ## 🌐 Socials:
